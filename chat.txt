@@ -1,0 +1,16 @@
+#act_songlove = +
+#act_songban = -
+#act_songnext = n
+#act_songpausetoggle = p
+#act_stationchange = s
+
+#act_songtired = t
+#act_voldown = (
+#act_volup = )
+
+
+artist=Secret Garden
+title=Sleepsong
+album=Earthsongs
+coverArt=http://cont-sv5-3.pandora.com/images/public/amz/7/9/3/3/602498703397_500W_500H.jpg
+stationName=Celtic Radio
