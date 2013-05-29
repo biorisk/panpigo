@@ -1,0 +1,8 @@
+*.o
+*.lo
+*.d
+# vim swap files
+.*.sw*
+pianobar
+libpiano.a
+libpiano.so*
