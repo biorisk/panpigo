@@ -1,0 +1,11 @@
+I have cross-compiled this project on an Ubuntu desktop machine using
+Go version go1.0.2 with the commmand:
+GOARCH=arm GOOS=linux CGO_ENABLED=0 go build panpigo.go
+
+After building panpigo, copy the panpigo exectuable to your pi. Also
+copy panpigo.html, the js directory, and the pianobar directory.
+
+Follow the pianobar instructions for compiling on the Pi.  Please let
+me know if you find a way to cross-compile pianobar.  The pianobar in
+this github repository is a fork because I couldn't figure out a way
+to get the information needed using the FIFO.
